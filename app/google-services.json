@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1014359249345",
+    "project_id": "fir-withlogin-61a05",
+    "storage_bucket": "fir-withlogin-61a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014359249345:android:a9e78303532f7ad2715f40",
+        "android_client_info": {
+          "package_name": "com.example.firebasewithlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014359249345-eq4hhmhi270ghktleg9lq2vd7eba8uma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBloNR-zTdUlx5rvFo_dABz9H_Ot67wTBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014359249345-eq4hhmhi270ghktleg9lq2vd7eba8uma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014359249345:android:3852f46fc5fb75ac715f40",
+        "android_client_info": {
+          "package_name": "com.moringaschool.mymoviesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014359249345-eq4hhmhi270ghktleg9lq2vd7eba8uma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBloNR-zTdUlx5rvFo_dABz9H_Ot67wTBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014359249345-eq4hhmhi270ghktleg9lq2vd7eba8uma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
