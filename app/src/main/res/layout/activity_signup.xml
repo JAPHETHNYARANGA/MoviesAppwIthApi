@@ -25,6 +25,7 @@
         android:layout_height="wrap_content"
         android:hint="Email"
         android:inputType="textEmailAddress" />
+
     <EditText
         android:id="@+id/password"
         android:layout_marginEnd="20dp"
